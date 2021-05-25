@@ -1,0 +1,8 @@
+Q1-A.It is a program that returns if the number is positive or negative.
+Q1-B.Simple calculator.
+Q1-C.A program that searches for a specific item in a list using Python.
+Q1-D.Create a list containing individual numbers only and print them.
+Q1-E.Determine the longest item in a list and print it.
+Q2.A program that converts decimal numbers into binary format and prints them
+Q3.A simple English / Arabic dictionary that saves the entries in sample.json file to be re-used again upon every implementation of the program.
+Q4_1-2.The basics of the python oop class create, inherit, and override, overload.
